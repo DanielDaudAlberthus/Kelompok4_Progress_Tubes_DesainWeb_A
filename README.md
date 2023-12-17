@@ -14,19 +14,20 @@ check this out: https://www.figma.com/file/2TtGqy9cMAiG2PSCRRNs3D/Untitled?type=
 
 # TAMPILAN WEBSITE
 Home
-![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/3a2bdb0d-2ac7-48f3-8f18-57b722d65eda)
+![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/c4ea810c-d261-43d0-aa3f-e14ff6aed182)
 
-Header
-![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/2aec17d4-3bbc-46be-9868-6335469ad82c)
+Event
+![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/2163133e-93cf-4f0e-9a9f-a48cb8d86135)
 
 Visi Misi
-![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/3c41bb16-3078-458b-a1bf-b1c930983686)
+![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/77875ba2-4d1a-499b-9d1e-6f6717d8f810)
 
 Seputar Jadwal
-![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/0ce5f559-6f8c-4b61-b6a5-3d48612cd295)
+![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/a717525c-7e90-4d50-871c-44a4f0506790)
+
 
 Tentang Kami
-![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/228a8f85-ba93-496c-b083-057bcf740bc6)
+![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/9e495243-6791-4fb3-9d93-220697534383)
 
 Footer
-![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/d30219c7-25db-4ef3-b3c5-f89e25921ce3)
+![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/3f1d770d-5b99-4a98-b16c-3e72a3c91458)
