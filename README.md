@@ -6,7 +6,7 @@ Pembuatan Website Resmi UKM Hockey untuk mengenalkan UKM Kepada Khalayak Umum
 check this out: https://www.figma.com/file/2TtGqy9cMAiG2PSCRRNs3D/Untitled?type=design&node-id=0-1&mode=design&t=xp8SuUF1ZaygKIfK-0
 
 # LINK YOUTUBE
-()
+( https://youtu.be/ZFqg-LI42_Q )
 
 # ANGGOTA KELOMPOK
 1. Malaekha Rafli Lindan Iskandar (4522210010)
