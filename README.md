@@ -17,7 +17,7 @@ Home
 ![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/c4ea810c-d261-43d0-aa3f-e14ff6aed182)
 
 Event
-![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/2163133e-93cf-4f0e-9a9f-a48cb8d86135)
+![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/145998330/e3ac6f3d-2bc8-49c4-be5b-318426157a14)
 
 Visi Misi
 ![image](https://github.com/DanielDaudAlberthus/Kelompok4_Progress_Tubes_DesainWeb_A/assets/144523084/77875ba2-4d1a-499b-9d1e-6f6717d8f810)
