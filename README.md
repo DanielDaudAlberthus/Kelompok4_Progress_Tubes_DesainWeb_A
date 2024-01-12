@@ -1,7 +1,7 @@
 # Kelompok4_Progress_Tubes_DesainWeb_A
 
 # TOPIK
-Kami membuat website untuk UKM Hockey Pancasila
+Pembuatan Website Resmi UKM Hockey untuk mengenalkan UKM Kepada Khalayak Umum
 # LINK FIGMA
 check this out: https://www.figma.com/file/2TtGqy9cMAiG2PSCRRNs3D/Untitled?type=design&node-id=0-1&mode=design&t=xp8SuUF1ZaygKIfK-0
 # ANGGOTA KELOMPOK
